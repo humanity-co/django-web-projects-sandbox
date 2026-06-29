@@ -31,4 +31,4 @@ A collection of Django boilerplate projects, database management tools, and simp
 ---
 
 ## License
-This project is proprietary and confidential. Property of Humanity Co.
+This project is proprietary and confidential. 
